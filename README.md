@@ -1,6 +1,6 @@
 ### eko-chevron
 eko-chevron is a True Type Variable fonts set only for replacing > and <.\
-Shapes are based on Material Icons set, and aligned to metrics value of Noto Sans CJK in 1000UPM.
+Shapes are based on Material Icons set, and aligned and quantized to metrics value of Noto Sans CJK in 1000UPM.
 
 Style ”Bold” and Weight “700” is a basic form and you can adjust font-weight in CSS or any platform.
 
