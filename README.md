@@ -4,7 +4,7 @@ Shapes are based on Material Icons set, and aligned to metrics value of Noto San
 
 Style ”Bold” and Weight “700” is a basic form and you can adjust font-weight in CSS or any platform.
 
-[DEMO](https://codepen.io/hiteq/pen/RdmZdL) / [DOWNLOAD](https://github.com/hiteq/eko-chevron/raw/master/eko-chevron.ttf)
+[DEMO](https://codepen.io/hiteq/full/RdmZdL) / [DOWNLOAD](https://github.com/hiteq/eko-chevron/raw/master/eko-chevron.ttf)
 - - -
 
 ### eko-shevron
@@ -13,4 +13,4 @@ eko-shevron은 >과 <를 대치하기 위한 트루타입 가변폰트입니다.
 
 “Bold” 혹은 “700”이 기본적인 형태이며, font-weight을 적용하여 두께를 자유자재로 바꿀 수 있습니다.
 
-[데모](https://codepen.io/hiteq/pen/RdmZdL) / [다운로드](https://github.com/hiteq/eko-chevron/raw/master/eko-chevron.ttf)
+[데모](https://codepen.io/hiteq/full/RdmZdL) / [다운로드](https://github.com/hiteq/eko-chevron/raw/master/eko-chevron.ttf)
